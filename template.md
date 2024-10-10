@@ -48,7 +48,7 @@ Prepared by AKALABOR
 
 ## Історія версій
 | Name |    Date   |  Reason For Changes | Version |
-| Fedor | 09.10.2024 |    Створення   |       1.00 |
+| Fedor | 10.10.2024 |    Редакція   |       1.00 |
 
 
 ## 1. Introduction
