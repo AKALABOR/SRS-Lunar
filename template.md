@@ -1,8 +1,8 @@
 # Software Requirements Specification
-## For <project name>
+## For Lunar
 
 Version 0.1  
-Prepared by <AKALABOR>  
+Prepared by AKALABOR  
 <Lunar Devs>  
 <date created>  
 
